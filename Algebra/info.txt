@@ -1,0 +1,13 @@
+Algebra and matrix
+
+Need to work on:
+More vector functionality
+Matrix implementation, 
+  eventually merge vector and matrix functionality with vector being a 1*n matrix
+
+Plotting library needs to support more extensive plotting functions
+  standard axes needs to be implemented correctly
+  need support for different axes scales: log(n), n^2 etc
+  
+Documentation
+  Find how to write good documentation
